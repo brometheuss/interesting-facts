@@ -1,0 +1,31 @@
+<?xml-stylesheet type="text/xsl"
+href="rss.xsl"?>
+<rss version="2.0">
+<channel>
+	<item>
+		<title>Interesting facts about cities</title>
+		<link>http://interestingfacts.byethost11.com/index.html</link>
+		<description>Read interesting facts here</description>
+	</item>
+	<item>
+		<title>Interesting facts | Register</title>
+		<link>http://interestingfacts.byethost11.com/registration.html</link>
+		<description>You can register yourself here</description>
+	</item>
+	<item>
+		<title>Interesting facts | Quick survey to help us!</title>
+		<link>http://interestingfacts.byethost11.com/quickSurvey.html</link>
+		<description>Answer these questions to help us out</description>
+	</item>
+	<item>
+		<title>Interesting facts | About author</title>
+		<link>http://interestingfacts.byethost11.com/author.html</link>
+		<description>Quick bio about the author of the site</description>
+	</item>
+	<item>
+		<title>Interesting facts | Contact me</title>
+		<link>http://interestingfacts.byethost11.com/contact.html</link>
+		<description>If you have any questions, you can contact me</description>
+	</item>
+</channel>
+</rss>

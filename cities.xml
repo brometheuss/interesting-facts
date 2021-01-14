@@ -1,0 +1,46 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<cities>
+	<city>
+		<name>Zurich</name>
+		<description>largest city in Switzerland</description>
+		<fact>Switzerland has four national languages: German, French, Italian, and Romansh.</fact>
+		<population>Population: 378.884</population>
+	</city>
+	<city>
+		<name>Paris</name>
+		<description>capital of France</description>
+		<fact>Paris is the only city in the world, where the the famous McDonalds logo is not written in yellow, instead they used white.</fact>
+		<population>Population: 2.24milion</population>
+	</city>
+	<city>
+		<name>Hong Kong</name>
+		<description>an autonomous territory on the Pearl River Delta of East Asia.</description>
+		<fact>Hong Kong’s official languages are Chinese (Spoken Cantonese) and English.</fact>
+		<population>Population: 7.18milon</population>
+	</city>
+	<city>
+		<name>Tokyo</name>
+		<description>capital of Japan</description>
+		<fact>There are almost 3 000 residents in Tokyo’s regions per m2 – it is the most densely populated area in the world. </fact>
+		<population>Population: 13.62milion</population>
+	</city>
+	<city>
+		<name>New York</name>
+		<description>The Big Apple</description>
+		<fact>15,150 forms of live organisms have been found in the New York(subway) system (this includes bacteria and some insects)</fact>
+		<population>Population: 8.4milion</population>
+	</city>
+	<city>
+		<name>Moscow</name>
+		<description>Capital of russia</description>
+		<fact>Trains in Moscow are the most frequent in the world, coming every 1.5minutes after the last one.</fact>
+		<population>Population: 11.92milion</population>
+	</city>
+	<city>
+		<name>Istanbul</name>
+		<description>City on two continents</description>
+		<fact>Istanbul has the third oldest subway in the world. It was built in 1875. It is 573m long.</fact>
+		<population>Population: 14m</population>
+	</city>
+</cities>

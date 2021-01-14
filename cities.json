@@ -1,0 +1,45 @@
+{
+"cities": []
+	{
+		"name": "Zurich"
+		"description": "largest city in Switzerland"
+		"fact": "Switzerland has four national languages: German, French, Italian, and Romansh."
+		"kolekcija": "Population: 378.884"
+	},
+	{
+		"name": "Paris"
+		"description": "capital of France"
+		"fact": "Paris is the only city in the world, where the the famous McDonalds logo is not written in yellow, instead they used white."
+		"kolekcija": "Population: 2.24milion"
+	},
+	{
+		"name": "Hong Kong"
+		"description": "an autonomous territory on the Pearl River Delta of East Asia."
+		"fact": "Hong Kong’s official languages are Chinese (Spoken Cantonese) and English."
+		"kolekcija": "Population: 7.18milon"
+	},
+	{
+		"name": "Tokyo"
+		"description": "capital of Japan"
+		"fact": "There are almost 3 000 residents in Tokyo’s regions per m2 – it is the most densely populated area in the world."
+		"kolekcija": "Population: 13.62milion"
+	},
+	{
+		"name": "New York"
+		"description": "The Big Apple"
+		"fact": "15,150 forms of live organisms have been found in the New York(subway) system (this includes bacteria and some insects)"
+		"kolekcija": "Population: 8.4milion"
+	},
+	{
+		"name": "Moscow"
+		"description": "Capital of russia"
+		"fact": "Trains in Moscow are the most frequent in the world, coming every 1.5minutes after the last one."
+		"kolekcija": "Population: 11.92milion"
+	},
+	{
+		"name": "Istanbul"
+		"description": "City on two continents"
+		"fact": "Istanbul has the third oldest subway in the world. It was built in 1875. It is 573m long."
+		"kolekcija": "Population: 14m"
+	},
+}
